@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce95ba2a6d71844c356d1b584c1376322d8eabe1">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc1a6466e72d46f8492da2dfd24c7b7fe83be6a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_72ebcdbf69c5c71c8b8b9746c2a6d81a517200ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_994597cee5238719b17d78c132bf5b1f04432af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="124ada479535c530f2320a2deb0d6e79f1ae1aa8">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_462b4ddd918e158326d78bd8bf02987f68390646/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_2b4434bc4a9bcdf9bc7368795fa3e52f6cc70a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c0e9e9ca6e9719fe619076e61db51fc6b45ba328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_993337840f704fe252a6ce5f3bba61d3877f2fd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Me/Desktop/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Me/Desktop/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ed79a4dbf9dc8095aa702e9ce421fcb6883b4336/classes.dex" />
+    </item>
+
+</items>
